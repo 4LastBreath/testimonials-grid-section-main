@@ -164,7 +164,6 @@ img, picture, svg {
 .card {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   gap: var(--size-200);
   border-radius: 10px;
   padding: var(--size-300) var(--size-400) var(--size-350) var(--size-400);
