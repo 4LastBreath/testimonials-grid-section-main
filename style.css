@@ -84,7 +84,7 @@ img, picture, svg {
 }
 
 .purple-bg {
-  background-image: url(/images/bg-pattern-quotation.svg);
+  background-image: url(./images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: 85%  0%;
   background-color: var(--clr-purple);
